@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SolutionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-19T23:13:22" hostname="vadzimko.local" time="0.119">
+  <properties/>
+  <testcase name="testSolution" classname="SolutionTest" time="0.119"/>
+  <system-out><![CDATA[Locks overlap: (Range(from=1080, to=1192), Range(from=1160, to=1200))
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

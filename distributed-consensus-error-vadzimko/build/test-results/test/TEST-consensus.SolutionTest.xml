@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="consensus.SolutionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-25T16:51:54" hostname="vadzimko.local" time="0.143">
+  <properties/>
+  <testcase name="testSolution" classname="consensus.SolutionTest" time="0.143"/>
+  <system-out><![CDATA[Consensus violation: [1, 2]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
